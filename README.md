@@ -1,3 +1,3 @@
 ## 📸 Demo
-- Live Site: https://yaseerm.me/javascript-projects/digital-clock%20web%20app/
+- Live Site: https://infoyaseer.github.io/Digital-Clock-Webb-App-js/
 - Source Code: This repository
